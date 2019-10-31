@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8221" started-at="2019-10-31T06:13:42Z" finished-at="2019-10-31T06:13:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8221" started-at="2019-10-31T06:13:42Z" finished-at="2019-10-31T06:13:50Z">
+      <class name="test.Trending6">
+        <test-method status="PASS" signature="hashTag()[pri:0, instance:test.Trending6@57855c9a]" name="hashTag" duration-ms="8159" started-at="2019-10-31T06:13:42Z" finished-at="2019-10-31T06:13:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hashTag -->
+      </class> <!-- test.Trending6 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
